@@ -1,2 +1,2 @@
 # Bank-Management-System
-I develop basic form application using java 
+I developed a basic form application using java 
